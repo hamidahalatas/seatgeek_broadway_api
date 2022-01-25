@@ -18,4 +18,4 @@ Parameters of the function are:
       
 Examples
 --------
->>> seatgeek_broadway_cheapest(date_start = '2021-12-01',date_end = '2021-12-31',n = 3, type = 'average')
+>>> seatgeek_broadway_cheapest(date_start = '2021-12-01', date_end = '2021-12-31', n = 3, type = 'average')
